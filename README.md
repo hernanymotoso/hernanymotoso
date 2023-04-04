@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
 
-- 🔭 I’m currently working on [Samsung Ocean](https://oceanbrasil.com/)
+- 🔭 I’m currently open to job offers
 
 - 🌱 I’m currently learning **Backend skills,clean architecture and clean code**
 
