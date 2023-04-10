@@ -71,9 +71,3 @@ Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `Ajax`, `Git`, `Technic
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hernanymotoso&" alt="hernanymotoso" /></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@0bb23fcf-1389-4cd8-aade-700d9b2e8b57&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
