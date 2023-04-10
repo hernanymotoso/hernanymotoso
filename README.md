@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hernany Motoso</h1>
-<h3 align="center">Full-Stack Software Engineer | Frontend Developer | Typescript | ReactJS | NodeJS | JavaScript</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=1200&lines=Full-Stack+Software+Engineer+%7C+Frontend+Developer;3%2B+years+of+coding+experience;Always+learning++new+things+)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
 
@@ -8,6 +10,51 @@
 - 🌱 I’m currently learning **Backend skills,clean architecture and clean code**
 
 - 📫 How to reach me **hernanymotoso@gmail.com**
+
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Samsung Ocean" src="https://user-images.githubusercontent.com/28400751/230815805-98319f92-01e3-4b37-a6ee-4ac24521f342.jpeg?raw=true"/>](https://www.oceanbrasil.com/)
+
+**Frontend Developer** \
+[**Samsung Ocean**](https://www.oceanbrasil.com/) • Contract \
+Languages & Technologies: `ReactJS`, `Typescript`, `React-query`, `Zustand`, `Styled-components`, `NodeJS`, `Jest`, `Cypress.io`, `JavaScript`, `Git`, `Code review`,  \
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="Resultup" src="https://user-images.githubusercontent.com/28400751/230816733-62b44e1e-b453-4154-985a-b0bcb30fad07.jpeg?raw=true"/>](https://www.resultup.com/)
+
+**Software Developer | React Developer | Consultant** \
+[**Resultup**](https://www.resultup.com/) • Contract \
+Languages & Technologies: `ReactJS`, `Typescript`, `React Context API`, `Styled-components`, `NodeJS`, `JavaScript`, `Git`, `Code review`,  \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Resultup" src="https://user-images.githubusercontent.com/28400751/230816733-62b44e1e-b453-4154-985a-b0bcb30fad07.jpeg?raw=true"/>](https://www.resultup.com/)
+
+**Software Developer | React Developer | NodeJS Developer | Consultant** \
+[**Resultup**](https://www.resultup.com/) • Contract \
+Languages & Technologies: `ReactJS`, `Typescript`, `Styled-components`, `NodeJS`, `JavaScript`, `Git`, `Azure Boards`, `Figma`, `Code review`,  \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Resultup" src="https://user-images.githubusercontent.com/28400751/230816733-62b44e1e-b453-4154-985a-b0bcb30fad07.jpeg?raw=true"/>](https://www.resultup.com/)
+
+**Software Developer | ASP.NET MVC Developer** \
+[**Resultup**](https://www.resultup.com/) • Contract \
+Languages & Technologies: `ASP.NET MVC`, `Razor do ASP.NET`, `Entity Framework ORM`, `Microsoft SQL Server`, `Git`, `Azure DevOps`  \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Século 21 Imóveis" src="https://user-images.githubusercontent.com/28400751/230817852-9dbdeba8-680b-4102-b2af-5c7ee0fcf35a.jpeg?raw=true"/>](https://null)
+
+**Software Developer Intern** \
+[**Século 21 Imóveis**](https://null) • Contract \
+Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `Ajax`, `Git`, `Technical support`  \
+<br/>
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +70,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hernanymotoso&show_icons=true&locale=en" alt="hernanymotoso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hernanymotoso&" alt="hernanymotoso" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@0bb23fcf-1389-4cd8-aade-700d9b2e8b57&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
