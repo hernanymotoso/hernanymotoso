@@ -16,36 +16,22 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Samsung Ocean" src="https://user-images.githubusercontent.com/28400751/230815805-98319f92-01e3-4b37-a6ee-4ac24521f342.jpeg?raw=true"/>](https://www.oceanbrasil.com/)
 
-**Frontend Developer** \
+**Mid-Level Frontend Developer** \
 [**Samsung Ocean**](https://www.oceanbrasil.com/) • Contract \
-Languages & Technologies: `ReactJS`, `Typescript`, `React-query`, `Zustand`, `Styled-components`, `NodeJS`, `Jest`, `Cypress.io`, `JavaScript`, `Git`, `Code review`,  \
+Languages & Technologies: `ReactJS`, `Typescript`, `React-query`, `Zustand`, `Styled-components`, `NodeJS`, `Jest`, `Cypress.io`, `JavaScript`, `Git`, `Code review`  \
 <br/>
 
 
 [<img align="left" height="94px" width="94px" alt="Resultup" src="https://user-images.githubusercontent.com/28400751/230816733-62b44e1e-b453-4154-985a-b0bcb30fad07.jpeg?raw=true"/>](https://www.resultup.com/)
 
-**Software Developer | React Developer | Consultant** \
+**Mid-Level Full Stack Developer** \
 [**Resultup**](https://www.resultup.com/) • Contract \
-Languages & Technologies: `ReactJS`, `Typescript`, `React Context API`, `Styled-components`, `NodeJS`, `JavaScript`, `Git`, `Code review`,  \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Resultup" src="https://user-images.githubusercontent.com/28400751/230816733-62b44e1e-b453-4154-985a-b0bcb30fad07.jpeg?raw=true"/>](https://www.resultup.com/)
-
-**Software Developer | React Developer | NodeJS Developer | Consultant** \
-[**Resultup**](https://www.resultup.com/) • Contract \
-Languages & Technologies: `ReactJS`, `Typescript`, `Styled-components`, `NodeJS`, `JavaScript`, `Git`, `Azure Boards`, `Figma`, `Code review`,  \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Resultup" src="https://user-images.githubusercontent.com/28400751/230816733-62b44e1e-b453-4154-985a-b0bcb30fad07.jpeg?raw=true"/>](https://www.resultup.com/)
-
-**Software Developer | ASP.NET MVC Developer** \
-[**Resultup**](https://www.resultup.com/) • Contract \
-Languages & Technologies: `ASP.NET MVC`, `Razor do ASP.NET`, `Entity Framework ORM`, `Microsoft SQL Server`, `Git`, `Azure DevOps`  \
+Languages & Technologies: `ReactJS`, `Typescript`, `Redux`, `Styled-components`, `NodeJS`, `JavaScript`, `Git`, `Figma`, `ASP.NET MVC`, `Razor do ASP.NET`, `Entity Framework ORM`, `Microsoft SQL Server`, `Azure DevOps`  `Code review`  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Século 21 Imóveis" src="https://user-images.githubusercontent.com/28400751/230817852-9dbdeba8-680b-4102-b2af-5c7ee0fcf35a.jpeg?raw=true"/>](https://null)
 
-**Software Developer Intern** \
+**Software Developer Intern/Junior** \
 [**Século 21 Imóveis**](https://null) • Contract \
 Languages & Technologies: `PHP`, `JavaScript`, `JQuery`, `Ajax`, `Git`, `Technical support`  \
 <br/>
