@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hernany Motoso</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=1200&lines=Full-Stack+Software+Engineer+%7C+Frontend+Developer;3%2B+years+of+coding+experience;Always+learning++new+things+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=1200&lines=Full-Stack+Software+Engineer+%7C+Frontend+Developer;6%2B+years+of+coding+experience;Always+learning++new+things+)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hernanymotoso&label=Profile%20views&color=0e75b6&style=flat" alt="hernanymotoso" /> </p>
