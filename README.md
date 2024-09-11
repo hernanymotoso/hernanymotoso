@@ -22,7 +22,7 @@ Languages & Technologies: `ReactJS`, `Typescript`, `React-query`, `Zustand`, `St
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Resultup" src="https://user-images.githubusercontent.com/28400751/230816733-62b44e1e-b453-4154-985a-b0bcb30fad07.jpeg?raw=true"/>](https://www.resultup.com/)
+[<img align="left" height="94px" width="94px" alt="Resultup" src="https://user-images.githubusercontent.com/28400751/230816733-62b44e1e-b453-4154-985a-b0bcb30fad07.jpeg?raw=true"/>](https://null/)
 
 **Mid-Level Full Stack Developer** \
 [**Resultup**](https://www.resultup.com/) • Contract \
